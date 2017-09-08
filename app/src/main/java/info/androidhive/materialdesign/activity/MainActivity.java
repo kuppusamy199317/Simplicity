@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
         drawerFragment.setUp(R.id.fragment_navigation_drawer, (DrawerLayout) findViewById(R.id.drawer_layout), mToolbar);
         drawerFragment.setDrawerListener(this);
         Log.e("CHECK","GIT TEST");
-        Log.e("CHECK","GIT TESTS");
+        Log.e("CHECK","GIT TESTSss");
         // display the first navigation drawer view on app launch
         displayView(0);
     }
